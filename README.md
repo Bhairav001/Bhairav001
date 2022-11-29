@@ -1,4 +1,4 @@
-<img align="right" width="600px" height="300"  alt="error" src="https://t4.ftcdn.net/jpg/03/13/40/45/240_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="top" width="600px" height="300"  alt="error" src="https://t4.ftcdn.net/jpg/03/13/40/45/240_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 <h1 align="center">Hi 👋, I'm Bhairavnath Gotam</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lXAZDNJF8yh8m-fnrqlxgJElfMWrYKgl-A&usqp=CAU">
