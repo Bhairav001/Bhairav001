@@ -2,7 +2,8 @@
 # Hi there, I'm Bhairavnath Gotam 👋  
 
 <a href="portpolio">
-  <img align="center" src="https://bhairav001.github.io/" alt="irohi.vercel.app" />
+  <link rel="stylesheet" href="https://bhairav001.github.io/">
+
 </a>
 <a title="bhairavgotam08@gmail.com" href="bhairavgotam08@gmail.com">
 ---
