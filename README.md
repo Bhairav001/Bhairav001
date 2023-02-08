@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning *React Navtive*
 
-- 👨‍💻 All of my projects are available at [https://bhairav001.github.io/](https://bhairav001.github.io/)
-
 - 💬 Ask me about *Coding*
 
 - 💬About my portfolio which i have created from scratch https://bhairav001.github.io/
