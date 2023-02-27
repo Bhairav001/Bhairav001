@@ -36,5 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhairav001&show_icons=true&locale=en&layout=compact" alt="bhairav001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhairav001&show_icons=true&locale=en" alt="bhairav001" /></p>
+          <img className="flex justify-center items-center" alt="Bhairav Gotam Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhairav001&theme=2077"/>
+
 
 
