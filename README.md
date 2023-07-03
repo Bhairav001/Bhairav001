@@ -1,7 +1,7 @@
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="javascript" width="100%" height="350"/>
+<img src="https://digitizebrand.com/asset/images/web_delopmentdesign.gif" alt="javascript" width="90%" height="350" />
 
 <h1 align="center">Hi 👋, I'm Bhairavnath Gotam </h1>
-<h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
+<h3 align="center">A passionate frontend developer from India, a Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
 
 
 - 🌱 I’m currently learning *Full stack web development*
